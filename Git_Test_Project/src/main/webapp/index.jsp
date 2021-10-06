@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Git_Test_Project - index.jsp</h1>
+	<h3>두번째 커밋을 위한 수정 작업</h3>
 </body>
 </html>
